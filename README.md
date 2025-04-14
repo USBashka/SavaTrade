@@ -23,6 +23,3 @@ cd SavaTrade
 python manage.py runserver
 ```
 Откройте в браузере http://127.0.0.1:8000
-
-## Использование
-*В разработке...*
